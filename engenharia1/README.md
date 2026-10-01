@@ -4,19 +4,24 @@ O que exatamente queremos dizer com engenharia de software? O que distingue a �
 
 Resposta:
 
+
 Atividade 2:
 Programação ao Longo do Tempo: Propomos que a "engenharia de software" englobe não apenas o ato de escrever código, mas todas as ferramentas e processos que uma organização utiliza para criar e manter esse código ao longo do tempo. Que práticas uma organização de software pode adotar para preservar o valor de seu código a longo prazo? Como os engenheiros podem tornar uma base de código mais sustentável e a própria disciplina de engenharia de software mais rigorosa? Não temos respostas definitivas para essas perguntas, mas esperamos que a experiência coletiva do Google nas últimas duas décadas ilumine possíveis caminhos para encontrá-las. Um conceito fundamental que compartilhamos neste livro é que a engenharia de software pode ser entendida como "programação integrada ao longo do tempo". Que práticas podemos aplicar ao nosso código para torná-lo sustentável — capaz de responder às mudanças necessárias — ao longo de seu ciclo de vida, desde a concepção e introdução até a manutenção e descontinuação? O livro destaca três princípios fundamentais que, em nossa visão, as organizações de software devem considerar ao projetar, arquitetar e escrever seu código: Tempo e Mudança: Como o código precisará se adaptar ao longo de sua vida útil Escala e Crescimento: Como uma organização precisará se adaptar à medida que evolui Compromissos e Custos: Como uma organização toma decisões com base nas lições sobre Tempo e Mudança e sobre Escala e Crescimento.
 
 Resposta:
 
+
 Atividade 3:
 Cite 3 exemplos de trade-offs:
 
-Resposta:\n
+Resposta:
+
+
 Atividade 4:
 Contribuição pessoal no API:
 
 Resposta:
+
 
 Atividade 5:
 Habilidades que aprendi com as contribuições
