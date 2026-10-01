@@ -12,8 +12,7 @@ Resposta:
 Atividade 3:
 Cite 3 exemplos de trade-offs:
 
-Resposta:
-
+Resposta:\n
 Atividade 4:
 Contribuição pessoal no API:
 
@@ -21,3 +20,5 @@ Resposta:
 
 Atividade 5:
 Habilidades que aprendi com as contribuições
+
+Resposta:
